@@ -1,0 +1,11 @@
+name = "accessai-proxy"
+main = "index.ts"
+compatibility_date = "2026-09-09"
+workers_dev = true
+[placement]
+region = "gcp:asia-northeast3"
+[vars]
+FREE_TIER_CONFIRMED = "true"
+ALLOWED_EXTENSION_IDS = "mdhobnonbpkileokdphecpdkomadcjoa"
+# Set only after verifying the Gemini project has NO linked billing account.
+# Register GEMINI_API_KEY with `wrangler secret put`, never in this file.

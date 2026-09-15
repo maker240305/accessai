@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+.output/
+.wxt/
+extension/.output/
+extension/.wxt/
+.env*
+!.env.example
+.dev.vars*
+.wrangler/
+artifacts/
+test-results/
+
+.pnpm-store/

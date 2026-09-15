@@ -1,0 +1,8 @@
+node_modules
+.pnpm-store
+**/.output
+**/.wxt
+**/.wrangler
+artifacts
+pnpm-lock.yaml
+proxy/.dev.vars
