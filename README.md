@@ -4,7 +4,7 @@
 
 기존 웹사이트 위에서 이미지 설명, 가독성 개선, 기본 한국어 AI 음성 탐색을 제공하는 Chrome Manifest V3 확장프로그램입니다. 완전한 스크린리더 대체품이나 WCAG 인증 도구가 아닙니다.
 
-해커톤 발표용 설명·시연 순서·당일 준비물은 [발표·기술 설명서](docs/HACKATHON_PRESENTATION.md)에, 폴더와 구현 파일을 처음부터 따라가는 설명은 [코드 안내서](docs/CODE_GUIDE_KO.md)에 정리했습니다.
+[기술 설명서](docs/HACKATHON_PRESENTATION.md), 폴더와 구현 파일을 처음부터 따라가는 설명은 [코드 안내서](docs/CODE_GUIDE_KO.md)
 
 ## 심사위원 설치 — 1분
 
